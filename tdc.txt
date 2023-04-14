@@ -1,1 +1,1 @@
-tdc cua main
+tdc cua main da pull
